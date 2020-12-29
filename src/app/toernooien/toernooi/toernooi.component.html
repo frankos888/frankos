@@ -1,0 +1,10 @@
+<ion-item 
+[routerLink]="['/toernooien', toernooi.id]" 
+detail
+>
+  <ion-avatar slot="start">
+    <ion-img [src]="toernooi.imageUrl"></ion-img>
+  </ion-avatar>
+  <ion-label> {{ toernooi.title }} </ion-label>
+</ion-item>
+ 

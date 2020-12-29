@@ -1,0 +1,8 @@
+{
+  "name": "fwxtest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "03aabb71"
+}
